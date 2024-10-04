@@ -1,3 +1,3 @@
-# Hacktoberfest2024
+# 🚀 HacktoberFest 2024 Nashik
 
-Guidelines and Resources
+[🎯 Projects Hosted for HacktoberFest 2024 Nashik](./Projects.md)

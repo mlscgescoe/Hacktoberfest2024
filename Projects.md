@@ -9,3 +9,8 @@
 ## GDG GESCOE
 
 ## GDG MET
+Discord Bot <br/>
+Game profile tracker Flutter <br/>
+Weather app  <br/>
+Quiz generator <br/>
+Project Explorer <br/>
