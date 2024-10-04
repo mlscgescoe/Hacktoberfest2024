@@ -6,11 +6,11 @@
 [StreamBox: A Netflix Clone built using NextJS 13](https://github.com/mlscgescoe/streambox)<br/>
 [Typescript Tutorial: A Tutorial with sample code for learning Typescript](https://github.com/mlscgescoe/typescript_tutorial)<br/>
 
-## GDG GESCOE
-
 ## GDG MET
 Discord Bot <br/>
 Game profile tracker Flutter <br/>
 Weather app  <br/>
 Quiz generator <br/>
 Project Explorer <br/>
+
+## GDG GESCOE
