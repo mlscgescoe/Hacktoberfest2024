@@ -7,10 +7,8 @@
 [Typescript Tutorial: A Tutorial with sample code for learning Typescript](https://github.com/mlscgescoe/typescript_tutorial)<br/>
 
 ## GDG MET
-Discord Bot <br/>
-Game profile tracker Flutter <br/>
-Weather app  <br/>
-Quiz generator <br/>
-Project Explorer <br/>
+[Dobby: A Discord bot to perform small and simple tasks](https://github.com/mlscgescoe/DobbyBot)<br/>
+[CloudCast: Simple Weather Forcast Web App](https://github.com/mlscgescoe/CloudCast)  <br/>
+[MediCare](https://github.com/mlscgescoe/MediCare) <br/>
 
 ## GDG GESCOE
